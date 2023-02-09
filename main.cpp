@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream
 #include <vector>
 
 // returns a vector with true for numbers less than the second parameters and false for those greater than or equal to
@@ -10,6 +10,6 @@ std::vector<bool> GreaterMask(std::vector<int> nums, int greater_than);
 int main(){
     //call each of the above functions
 
-    return 2;
+    return 4;
 
 }
